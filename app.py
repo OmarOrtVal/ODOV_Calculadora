@@ -1,4 +1,4 @@
-from mi_entorno import Flask
+from flask import Flask
 
 app = Flask(__name__)
 
