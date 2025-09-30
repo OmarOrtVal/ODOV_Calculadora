@@ -12,9 +12,6 @@ def calculadora():
     <h2>Para division escribe en el navegador http://127.0.0.1:5000/division<h2>
     <h2>Para mayor escribe en el navegador http://127.0.0.1:5000/mayor<h2>
     <h2>Para menor escribe en el navegador http://127.0.0.1:5000/menor<h2>
-    <h2> DESPUES DE EL NOMBRE DE LA OPERACION DEBES PONER LOS 2 NUMEROS QUE DESEAS UTILIZAR PARA TU OPREACION
-    EJEMPLO:http://127.0.0.1:5000/sumar/5/42 <h2>
-
     <footer>
     OMAR DANIEL ORTEGA VALTIERRA
     23308060610674
